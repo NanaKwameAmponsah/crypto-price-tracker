@@ -27,8 +27,8 @@ useEffect(()=>{
   return (
     <div className='home'>
       <div className="hero">
-        <h1>Largest <br/> Crypto Marketplace</h1>
-        <p>Welcome to the world's largest cryptocurrency marketplace. Sign up to explore more about cryptos.</p>
+        <h1>Enter <br/> The Crypto Palace</h1>
+        <p>Claim your crown in the world’s most dynamic crypto exchange.real-time prices, top coins, zero hassle.</p>
         <form onSubmit={searchHandler}>
           <input onChange = {inputHandler} list='coinlist' value={input} type="text" placeholder="Search for a coin..." required/>
           <datalist id='coinlist'>
