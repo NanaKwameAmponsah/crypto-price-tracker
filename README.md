@@ -1,9 +1,5 @@
 # Crypto Palace - Real-Time Cryptocurrency Tracker
-
-
-[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-222?style=for-the-badge&logo=github)](https://pages.github.com/)
-
-> **"Claim your crown in the world's most dynamic crypto exchange"** - A modern, responsive cryptocurrency tracking application built with React and powered by real-time data from CoinGecko API.
+A modern, responsive cryptocurrency tracking application built with React and powered by real-time data from CoinGecko API.
 
 ##  Live Demo
 
