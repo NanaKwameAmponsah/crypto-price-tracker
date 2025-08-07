@@ -1,7 +1,7 @@
 {
   "name": "crypto-price-tracker",
   "version": "0.1.0",
-  "homepage": "https://github.com/NanaKwameAmponsah/crypto-price-tracker",
+  "homepage": "https://nanakwameamponsah.github.io/crypto-price-tracker",
   "private": true,
   "type": "module",
   "scripts": {
@@ -12,6 +12,7 @@
     "start": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+    
   },
   "dependencies": {
     "react": "^19.1.0",
