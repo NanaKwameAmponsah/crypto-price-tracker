@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "start": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist/crypto-price-tracker"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
